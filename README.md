@@ -1,6 +1,16 @@
 # Rural Education Empowerment Platform
 
 An AI-powered platform that empowers educated rural youth—especially women—to become part-time teachers in their villages through non-monetary incentives like farming tools, food supplies, or scholarships.
+# Agents urls 
+1. Rural Education Team : https://platform.aixplain.com/discover/agent/67dfca08338999cb9696a566?team=26927
+2. Progress Monitoring Agent : https://platform.aixplain.com/discover/agent/67dfc9f8338999cb9696a565?team=26927
+3. Community Engagement Agent : https://platform.aixplain.com/discover/agent/67dfb3fe338999cb9696a526?team=26927
+4. Incentive Management Agent : https://platform.aixplain.com/discover/agent/67dfb3fd181c58b7238eb907?team=26927
+5. Training and Mentorship Agent : https://platform.aixplain.com/discover/agent/67dfb3fc338999cb9696a525?team=26927
+6. Teacher Recruitment Agent : https://platform.aixplain.com/discover/agent/67dfb30a181c58b7238eb902?team=26927
+
+
+
 
 ## Pipeline Diagram
 ```mermaid
