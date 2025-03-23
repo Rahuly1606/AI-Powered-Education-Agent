@@ -1,0 +1,5 @@
+student_id,name,village_id,attendance_percent,math_score,english_score,science_score
+S001,Amit Sharma,V001,92,85,78,88
+S002,Neha Gupta,V002,85,72,89,81
+S003,Preeti Singh,V003,78,68,75,72
+S004,Rohan Patel,V004,95,92,88,94

@@ -1,0 +1,5 @@
+training_id,module_name,duration_days,materials_required,schedule_date,village_id,status
+TR001,Basic Pedagogy,3,Projector,2024-03-15,V001,Completed
+TR002,Digital Tools,5,Laptops,2024-04-01,V002,Planned
+TR003,Gender Sensitivity,2,Handbook,2024-03-20,V003,Ongoing
+TR004,Agriculture Basics,4,Farming Kits,2024-04-10,V004,Planned

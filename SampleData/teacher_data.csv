@@ -1,0 +1,5 @@
+teacher_id,name,age,education_level,subjects,village_id,village_needs,suitability_score
+T001,Sunita Mehta,22,Bachelor's,Math,Science,V001,Primary Education,0.92
+T002,Rajesh Kumar,25,Master's,English,Social Studies,V002,Digital Literacy,0.85
+T003,Anjali Patil,20,High School,Regional Language,V003,Women's Education,0.78
+T004,Arun Singh,28,Bachelor's,Agriculture Science,V004,Farming Skills,0.88

@@ -1,0 +1,5 @@
+teacher_id,preferred_incentive,available_resources,allocated_incentive
+T001,Scholarship,"Seeds, Books, Rations",Books
+T002,Farming Tools,"Tools, Uniforms, Internet",Farming Tools
+T003,Ration Kit,"Food, Clothes, Medicine",Ration Kit
+T004,School Supplies,"Notebooks, Pens, Bags",School Supplies
