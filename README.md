@@ -35,24 +35,6 @@ graph TD;
 
   ---
 
-## *Pipeline Diagram*
-```mermaid
-graph TD;
-    A[Teacher Recruitment Agent] --> B[Training & Mentorship Agent]
-    B --> C[Incentive Management Agent]
-    C --> D[Community Engagement Agent]
-    D --> E[Progress Monitoring Agent]
-    E --> F[Rural Education Team]
-
-    subgraph Rural Education System
-        A
-        B
-        C
-        D
-        E
-        F
-    end
-
 ## Overview
 
 This platform leverages AI agents to manage various aspects of a rural education program:
