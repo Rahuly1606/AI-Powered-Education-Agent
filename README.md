@@ -40,10 +40,6 @@ Each agent is powered by a large language model (OpenAI GPT-4) via the aiXplain 
 
 ## Getting Started in Google Colab
 
-### Quick Start
-You can access the ready-to-use Google Colab notebook here:
-[Rural Education Empowerment Platform Notebook](https://colab.research.google.com/drive/1AVmhLrWGqMA2Znl7OqhEYF0TUsN97w3I#scrollTo=-AEDKZ10b75M)
-
 ### Prerequisites
 - Google Colab account
 - aiXplain API key
@@ -51,7 +47,7 @@ You can access the ready-to-use Google Colab notebook here:
 
 ### Setting Up Your Environment
 
-1. Create a new Google Colab notebook or use the provided link above
+1. Create a new Google Colab notebook
 2. Upload your sample data files to the Colab session
 3. Set your aiXplain API key in the notebook
 
