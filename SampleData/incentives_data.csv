@@ -3,3 +3,49 @@ T001,Scholarship,"Seeds, Books, Rations",Books
 T002,Farming Tools,"Tools, Uniforms, Internet",Farming Tools
 T003,Ration Kit,"Food, Clothes, Medicine",Ration Kit
 T004,School Supplies,"Notebooks, Pens, Bags",School Supplies
+T005,Internet Connection,"Internet Devices, Tablets, Books",Internet Devices
+T006,Training Workshops,"Projectors, Books, Teaching Guides",Teaching Guides
+T007,Medical Kit,"Medical Supplies, First Aid, Medicines",Medical Supplies
+T008,Digital Tools,"Tablets, Laptops, Phones",Tablets
+T009,Agricultural Resources,"Seeds, Fertilizers, Tools",Seeds
+T010,Sports Equipment,"Balls, Sports Gear, Uniforms",Sports Gear
+T011,Library Resources,"Books, Magazines, Encyclopedias",Books
+T012,Art Supplies,"Paper, Colors, Crafts Material",Art Supplies
+T013,Science Kits,"Lab Equipment, Models, Charts",Lab Equipment
+T014,Language Resources,"Language Books, Audio Tools, Dictionaries",Language Books
+T015,Mathematics Tools,"Calculators, Abacus, Geometry Kits",Geometry Kits
+T016,Nutrition Supplements,"Food Supplies, Vitamins, Milk Powder",Food Supplies
+T017,Hygiene Kits,"Soaps, Sanitizers, Towels",Hygiene Kits
+T018,Classroom Furniture,"Desks, Chairs, Boards",Desks
+T019,Musical Instruments,"Flutes, Drums, Guitars",Flutes
+T020,Educational Games,"Board Games, Puzzles, Flash Cards",Educational Games
+T021,Historical Models,"Maps, Globes, Timeline Charts",Maps
+T022,Vocational Tools,"Carpentry Tools, Electric Kits, Sewing Machines",Sewing Machines
+T023,Gardening Tools,"Seeds, Pots, Watering Cans",Gardening Tools
+T024,Weather Instruments,"Thermometers, Rain Gauges, Wind Vanes",Weather Instruments
+T025,Energy Resources,"Solar Lamps, Batteries, Chargers",Solar Lamps
+T026,Community Radio,"Radio Sets, Broadcast Equipment, Recorders",Radio Sets
+T027,Cultural Materials,"Traditional Crafts, Local Art, Heritage Books",Cultural Materials
+T028,Renewable Energy Kits,"Solar Panels, Wind Energy Models, Demos",Renewable Energy Kits
+T029,Transportation Support,"Bicycles, Bus Passes, Fuel Allowance",Bicycles
+T030,Child Safety Kits,"First Aid, Emergency Contacts, Safety Manuals",Child Safety Kits
+T031,Special Needs Resources,"Braille Books, Hearing Aids, Mobility Aids",Braille Books
+T032,Technology Training,"Online Courses, Software Licenses, Tutorials",Online Courses
+T033,Community Service Materials,"Cleanup Tools, Community Maps, Project Supplies",Cleanup Tools
+T034,Parent Education Resources,"Parenting Guides, Family Health Books, Nutrition Charts",Parenting Guides
+T035,Teacher Well-being,"Stress Management Books, Health Check-ups, Counseling",Stress Management Books
+T036,Environmental Education,"Eco Kits, Nature Guides, Recycling Tools",Eco Kits
+T037,Financial Literacy,"Budgeting Tools, Banking Guides, Economics Books",Budgeting Tools
+T038,Health Education,"Health Charts, Hygiene Models, Nutrition Guides",Health Charts
+T039,Career Guidance,"Career Books, Skill Assessment Tools, Vocational Guides",Career Books
+T040,Agricultural Extension,"Farming Manuals, Crop Samples, Seed Banks",Farming Manuals
+T041,Local Language Resources,"Local Scripts, Folk Tales, Traditional Knowledge Books",Local Scripts
+T042,Disaster Management,"Emergency Kits, Safety Guides, Drills Manual",Emergency Kits
+T043,Youth Leadership,"Leadership Books, Activity Guides, Team Building Kits",Leadership Books
+T044,Gender Equality,"Gender Sensitive Books, Educational Posters, Activity Kits",Gender Sensitive Books
+T045,Civic Education,"Constitution Copies, Voter Education, Democracy Games",Civic Education
+T046,Peace Education,"Conflict Resolution Games, Cultural Exchange Kits, Diversity Books",Peace Education
+T047,Entrepreneurship,"Business Starter Kits, Market Guides, Entrepreneurship Books",Business Starter Kits
+T048,Digital Literacy,"Computer Basics Books, Internet Safety Guides, Digital Tools",Digital Literacy
+T049,Life Skills,"Decision Making Games, Social Skills Books, Emotional Intelligence Kits",Life Skills
+T050,Community Health,"Health Check Equipment, Community Health Records, Disease Prevention Posters",Health Check Equipment
