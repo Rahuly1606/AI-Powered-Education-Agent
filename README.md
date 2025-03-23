@@ -2,6 +2,25 @@
 
 An AI-powered platform that empowers educated rural youth—especially women—to become part-time teachers in their villages through non-monetary incentives like farming tools, food supplies, or scholarships.
 
+## Pipeline Diagram
+```mermaid
+graph TD;
+    A[Teacher Recruitment Agent] --> B[Training & Mentorship Agent]
+    B --> C[Incentive Management Agent]
+    C --> D[Community Engagement Agent]
+    D --> E[Progress Monitoring Agent]
+    E --> F[Rural Education Team]
+
+    subgraph Rural Education System
+        A
+        B
+        C
+        D
+        E
+        F
+    end
+```
+
 ## Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
