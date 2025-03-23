@@ -51,6 +51,8 @@ Each agent is powered by a large language model (OpenAI GPT-4) via the aiXplain 
 2. Upload your sample data files to the Colab session
 3. Set your aiXplain API key in the notebook
 
+> **Note**: There is a ready-to-use execution file available in the Colab/Main directory that contains all the necessary code for this project.
+
 ## Part 1: Setup and Create Agents
 
 Copy and paste the following code into your Colab notebook:
