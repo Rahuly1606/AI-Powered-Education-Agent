@@ -2,12 +2,12 @@
 
 An AI-powered platform that empowers educated rural youth—especially women—to become part-time teachers in their villages through non-monetary incentives like farming tools, food supplies, or scholarships.
 # Agents urls 
-1. Rural Education Team : https://platform.aixplain.com/discover/agent/67dfca08338999cb9696a566?team=26927
-2. Progress Monitoring Agent : https://platform.aixplain.com/discover/agent/67dfc9f8338999cb9696a565?team=26927
-3. Community Engagement Agent : https://platform.aixplain.com/discover/agent/67dfb3fe338999cb9696a526?team=26927
-4. Incentive Management Agent : https://platform.aixplain.com/discover/agent/67dfb3fd181c58b7238eb907?team=26927
-5. Training and Mentorship Agent : https://platform.aixplain.com/discover/agent/67dfb3fc338999cb9696a525?team=26927
-6. Teacher Recruitment Agent : https://platform.aixplain.com/discover/agent/67dfb30a181c58b7238eb902?team=26927
+1. Rural Education Team : https://platform.aixplain.com/discover/agent/67e0fc3a181c58b7238ebd27?tab=tryout?team=26927
+2. Progress Monitoring Agent : https://platform.aixplain.com/discover/agent/67e0fc36338999cb9696a941?team=26927
+3. Community Engagement Agent : https://platform.aixplain.com/discover/agent/67e0fc35338999cb9696a940?team=26927
+4. Incentive Management Agent : https://platform.aixplain.com/discover/agent/67e0fc34181c58b7238ebd26?team=26927
+5. Training and Mentorship Agent : https://platform.aixplain.com/discover/agent/67e0fc33338999cb9696a93f?team=26927
+6. Teacher Recruitment Agent : https://platform.aixplain.com/discover/agent/67e0fc32338999cb9696a93e?team=26927
 
 
 
