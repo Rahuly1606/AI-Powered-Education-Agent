@@ -2,6 +2,7 @@
 
 An AI-powered platform that empowers educated rural youth—especially women—to become part-time teachers in their villages through non-monetary incentives like farming tools, food supplies, or scholarships.
 # Agents urls 
+**Pipeline  : https://platform.aixplain.com/discover/agent/67e50f9fd6a777f40306b191?team=26927
 1. Rural Education Team : https://platform.aixplain.com/discover/agent/67dfca08338999cb9696a566?team=26927
 2. Progress Monitoring Agent : https://platform.aixplain.com/discover/agent/67dfc9f8338999cb9696a565?team=26927
 3. Community Engagement Agent : https://platform.aixplain.com/discover/agent/67dfb3fe338999cb9696a526?team=26927
