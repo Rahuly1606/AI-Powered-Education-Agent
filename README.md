@@ -223,7 +223,7 @@ progress_monitoring_agent = AgentFactory.create(
     
     Here's the community data you have access to:
     """ + pd.DataFrame(data_frames.get('community_data', pd.DataFrame())).to_string(),
-    llm_id="6646261c6eb563165658bbb1"  # aiXplain - OpenAI GPT-4
+    llm_id="6646261c6eb56316565*****"  # aiXplain - OpenAI GPT-4
 )
 
 # Create Team Agent
@@ -241,7 +241,7 @@ rural_education_team = TeamAgentFactory.create(
         community_engagement_agent,
         progress_monitoring_agent
     ],
-    llm_id="6646261c6eb563165658bbb1"  # aiXplain - OpenAI GPT-4
+    llm_id="6646261c6eb56316565*****"  # aiXplain - OpenAI GPT-4
 )
 
 # Deploy Agents
